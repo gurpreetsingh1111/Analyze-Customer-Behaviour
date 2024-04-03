@@ -1,5 +1,6 @@
 # Analyze-Customer-Behaviour
 ## About Dataset:https://www.kaggle.com/datasets/iamprateek/store-transaction-data/data
+## Kaggle NoteBook:https://www.kaggle.com/code/bunny11/analyze-customer-behavior
 * **Context**
 Nielsen receives transaction level scanning data (POS Data) from its partner stores on a regular basis. Stores sharing POS data include bigger format store types such as supermarkets, hypermarkets as well as smaller traditional trade grocery stores (Kirana stores), medical stores etc. using a POS machine.
 
